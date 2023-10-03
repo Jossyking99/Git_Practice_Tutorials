@@ -1,0 +1,1 @@
+This Project creates a blue colored page using HTML AND CSS
